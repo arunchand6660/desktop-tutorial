@@ -1,1 +1,0 @@
-swarith is s2
